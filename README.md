@@ -8,7 +8,7 @@ ThinkPHP5 Smarty 引擎驱动
 
 ## 安装方法
 
-使用composer安装模版引擎方法: `composer require zoujingli/think-smarty`
+使用composer安装模版引擎方法: `composer require ksuena0213/think-smarty`
 
 ## ThinkPHP5 配置文件中`template`参数
 
