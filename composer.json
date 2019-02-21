@@ -1,7 +1,7 @@
 {
     "type": "project",
-    "name": "zoujingli/think-smarty",
-    "homepage": "https://www.ctolog.com",
+    "name": "ksuena0213/think-smarty",
+    "homepage": "https://www.hm-soft.club",
     "description": "ThinkPHP5 Smarty Template Driver",
     "license": "MIT",
     "keywords": [
@@ -9,7 +9,7 @@
         "thinkphp5"
     ],
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=5.6.0",
         "smarty/smarty": "^3.1"
     },
     "support": {
